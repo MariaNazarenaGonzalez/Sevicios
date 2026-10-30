@@ -50,15 +50,6 @@ export const CONFIG = {
       precio: null,
       duracion: "Consultar",
       destacado: false
-    },
-    {
-      id: "mantenimiento",
-      nombre: "Mantenimiento y soporte",
-      categoria: "Soporte",
-      descripcion: "Actualizaciones, correcciones, mejoras y soporte continuo para sitios o aplicaciones.",
-      precio: null,
-      duracion: "Consultar",
-      destacado: false
     }
   ]
 };
